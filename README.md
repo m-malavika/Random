@@ -85,9 +85,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👩‍💻 Author
 
 Malavika TR
-
-
----
-
-Let me know if you'd like to add a **screenshot preview**, a **live demo link** (if hosted on GitHub Pages), or your **FreeCodeCamp profile link**!
-```
