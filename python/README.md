@@ -6,15 +6,15 @@ Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ1.py)
 
 2. Even or Odd <br>
 Write a program that takes an integer input and prints whether it is even or odd.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ2.py)
 
 3. Simple Calculator <br>
 Take two numbers as input and print their sum, difference, product, and division.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ3.py)
 
 4. Check Prime<br>
 Write a program to check whether a number is prime or not.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ4.py)
 
 5. Reverse a String<br>
 Input a string and print its reverse.<br>
