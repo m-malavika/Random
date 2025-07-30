@@ -18,8 +18,8 @@ Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ4.py)
 
 5. Reverse a String<br>
 Input a string and print its reverse.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ5.py)
 
 6. Fibonacci Series (first n terms)<br>
 Generate the first n terms of the Fibonacci series.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ6.py)
