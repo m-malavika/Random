@@ -28,19 +28,19 @@ Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ6.py)
 
 1. Palindrome Check<br>
 Write a function that checks whether a string is a palindrome.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ1.py)
 
 2. Factorial using Recursion<br>
 Create a recursive function to calculate factorial.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ2.py)
 
 3. List of Squares<br>
 Generate a list of squares of numbers from 1 to 10 using list comprehension.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ3.py)
 
 4. Count Vowels in a String<br>
 Write a function that returns the number of vowels in a string.<br>
-Ans: [Answer]
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ4.py)
 
 5. Remove Duplicates from a List<br>
 Write a program to remove duplicates from a list.<br>
