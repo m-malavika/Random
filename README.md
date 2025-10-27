@@ -190,7 +190,7 @@ Output 6 3 5 7<br>
 Ans: [Answer]
 
 30. Calculate income tax<br>
-Calculate income tax for the given income by adhering to the rules below
+Calculate income tax for the given income by adhering to the rules below<br>
 | **Taxable Income** | **Rate (%)** |
 |---------------------|--------------|
 | First $10,000       | 0%           |
