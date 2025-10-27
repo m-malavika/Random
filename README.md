@@ -190,10 +190,7 @@ Output 6 3 5 7<br>
 Ans: [Answer]
 
 30. Calculate income tax  
-<div style="margin-left: 30px">
-
-Calculate income tax for the given income by adhering to the rules below  
-<div align="center">
+Calculate income tax for the given income by adhering to the rules below
 
 | **Taxable Income** | **Rate (%)** |
 |---------------------|--------------|
@@ -201,8 +198,9 @@ Calculate income tax for the given income by adhering to the rules below
 | Next $10,000        | 10%          |
 | The remaining       | 20%          |
 
-</div>
-
+**Expected Output:**
+For example, suppose the income is 45000, and the income tax payable is<br>
+10000*0% + 10000*10%  + 25000*20% = $6000<br>
 Ans: [Answer]
 
 
