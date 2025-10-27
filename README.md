@@ -100,17 +100,14 @@ Given two integer numbers, write a Python program to return their product only i
 Given 1:<br>
 number1 = 20<br>
 number2 = 30<br>
-
 Expected Output:<br>
 The result is 600<br>
 <br>
 Given 2:<br>
 number1 = 40<br>
 number2 = 30<br>
-
 Expected Output:<br>
 The result is 70<br>
-
 Ans: [Answer]
 
 20. 
