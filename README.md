@@ -183,10 +183,10 @@ result list: [25, 35, 40, 60, 90]<br>
 Ans: [Answer]
 
 29. Get each digit from a number in the reverse order.<br>
-For example, If the given integer number is 7536, the output shall be “6 3 5 7“, with a space separating the digits.<br>
-Given:<br>
-number = 7536<br>
-Output 6 3 5 7<br>
+>For example, If the given integer number is 7536, the output shall be “6 3 5 7“, with a space separating the digits.<br>
+>Given:<br>
+>number = 7536<br>
+>Output 6 3 5 7<br>
 Ans: [Answer]
 
 30. Calculate income tax  
@@ -201,6 +201,5 @@ Ans: [Answer]
 > **Expected Output:**  
 > Suppose the income is **$45,000**, and the income tax payable is  
 > 10,000×0% + 10,000×10% + 25,000×20% = **$6,000**  
->
-> **Ans:** [Answer]
+ **Ans:** [Answer]
 
