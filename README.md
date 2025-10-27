@@ -102,7 +102,6 @@ number1 = 20<br>
 number2 = 30<br>
 Expected Output:<br>
 The result is 600<br>
-<br>
 Given 2:<br>
 number1 = 40<br>
 number2 = 30<br>
