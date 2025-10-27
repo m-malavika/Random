@@ -94,3 +94,23 @@ Ans: [Answer]
 18. Dictionary Word Frequency Counter<br>
 Input a sentence and return a dictionary with word frequencies.<br>
 Ans: [Answer]
+
+19. Calculate the multiplication and sum of two numbers<br>
+Given two integer numbers, write a Python program to return their product only if the product is equal to or lower than 1000. Otherwise, return their sum.<br>
+Given 1:<br>
+number1 = 20<br>
+number2 = 30<br>
+
+Expected Output:<br>
+The result is 600<br>
+<br>
+Given 2:<br>
+number1 = 40<br>
+number2 = 30<br>
+
+Expected Output:<br>
+The result is 70<br>
+
+Ans: [Answer]
+
+20. 
