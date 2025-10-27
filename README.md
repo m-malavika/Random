@@ -21,7 +21,7 @@ These codes are **not production-ready** and may not follow best practices. They
 
 
 
-## python
+## Python
 
 1. Print "Hello, World!" <br>
 Write a program that prints "Hello, World!" to the console.<br>
