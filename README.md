@@ -6,7 +6,6 @@ This folder contains a collection of miscellaneous code snippets written for pra
 
 * `python/` – Python programs and logic snippets
 * `c/` – C language practice codes
-* `html-css/` – Frontend design experiments
 
 > Feel free to explore, reuse, and learn!
 
