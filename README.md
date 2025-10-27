@@ -109,4 +109,94 @@ Expected Output:<br>
 The result is 70<br>
 Ans: [Answer]
 
-20. 
+20. Print the Sum of a Current Number and a Previous number<br>
+Write Python code to iterate through the first 10 numbers and, in each iteration, print the sum of the current and previous number.<br>
+Expected Output:<br>
+Printing current and previous number sum in a range(10)<br>
+Current Number 0 Previous Number  0  Sum:  0<br>
+Current Number 1 Previous Number  0  Sum:  1<br>
+Current Number 2 Previous Number  1  Sum:  3<br>
+Current Number 3 Previous Number  2  Sum:  5<br>
+Current Number 4 Previous Number  3  Sum:  7<br>
+Current Number 5 Previous Number  4  Sum:  9<br>
+Current Number 6 Previous Number  5  Sum:  11<br>
+Current Number 7 Previous Number  6  Sum:  13<br>
+Current Number 8 Previous Number  7  Sum:  15<br>
+Current Number 9 Previous Number  8  Sum:  17<br>
+Ans: [Answer]
+
+21. Print characters present at an even index number<br>
+Write a Python code to accept a string from the user and display characters present at an even index number.<br>
+For example, str = "PYnative". so your code should display ‘P’, ‘n’, ‘t’, ‘v’.<br>
+Expected Output:<br>
+Orginal String is  PYnative<br>
+Printing only even index chars<br>
+P<br>
+n<br>
+t<br>
+v<br>
+Ans: [Answer]
+
+22. Remove first n characters from a string<br>
+Write a Python code to remove characters from a string from 0 to n and return a new string.<br>
+Ans: [Answer]
+
+23. Check if the first and last numbers of a list are the same<br>
+Write a code to return True if the list’s first and last numbers are the same. If the numbers are different, return False.<br>
+Ans: [Answer]
+
+24. Display numbers divisible by 5<br>
+Write a Python code to display numbers from a list divisible by 5<br>
+Ans: [Answer]
+
+25. Find the number of occurrences of a substring in a string<br>
+Write a Python code to find how often the substring “Emma” appears in the given string.<br>
+Given:<br>
+str_x = "Emma is good developer. Emma is a writer"<br>
+Expected Output:<br>
+Emma appeared 2 times<br>
+Ans: [Answer]
+
+26. Print the following pattern<br>
+1 <br>
+2 2 <br>
+3 3 3 <br>
+4 4 4 4 <br>
+5 5 5 5 5<br>
+Ans: [Answer]
+
+27. Check Palindrome Number<br>
+Write a Python code to check if the given number is a palindrome. A palindrome number reads the same forwards and backward. For example, 545 is a palindrome number.<br>
+Expected Output:<br>
+original number 121<br>
+Yes. given number is palindrome number<br>
+original number 125<br>
+No. given number is not palindrome number<br>
+Ans: [Answer]
+
+28. Merge two lists using the following condition<br>
+Given two lists of numbers, write Python code to create a new list containing odd numbers from the first list and even numbers from the second list.<br>
+list1 = [10, 20, 25, 30, 35]<br>
+list2 = [40, 45, 60, 75, 90]<br>
+Expected Output:<br>
+result list: [25, 35, 40, 60, 90]<br>
+Ans: [Answer]
+
+29. Get each digit from a number in the reverse order.<br>
+For example, If the given integer number is 7536, the output shall be “6 3 5 7“, with a space separating the digits.<br>
+Given:<br>
+number = 7536<br>
+Output 6 3 5 7<br>
+Ans: [Answer]
+
+30. Calculate income tax<br>
+Calculate income tax for the given income by adhering to the rules below<br>
+| **Taxable Income** | **Rate (%)** |
+|---------------------|--------------|
+| First $10,000       | 0%           |
+| Next $10,000        | 10%          |
+| The remaining       | 20%          |
+Expected Output:<br>
+For example, suppose the income is 45000, and the income tax payable is<br>
+10000*0% + 10000*10%  + 25000*20% = $6000<br>
+Ans: [Answer]
