@@ -2,45 +2,45 @@
 
 1. Print "Hello, World!" <br>
 Write a program that prints "Hello, World!" to the console.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ1.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q1.py)
 
 2. Even or Odd <br>
 Write a program that takes an integer input and prints whether it is even or odd.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ2.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q2.py)
 
 3. Simple Calculator <br>
 Take two numbers as input and print their sum, difference, product, and division.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ3.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q3.py)
 
 4. Check Prime<br>
 Write a program to check whether a number is prime or not.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ4.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q4.py)
 
 5. Reverse a String<br>
 Input a string and print its reverse.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ5.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q5.py)
 
 6. Fibonacci Series (first n terms)<br>
 Generate the first n terms of the Fibonacci series.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/BQ6.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q6.py)
 
 🟡 Intermediate Level
 
 1. Palindrome Check<br>
 Write a function that checks whether a string is a palindrome.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ1.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q7.py)
 
 2. Factorial using Recursion<br>
 Create a recursive function to calculate factorial.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ2.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q8.py)
 
 3. List of Squares<br>
 Generate a list of squares of numbers from 1 to 10 using list comprehension.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ3.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q9.py)
 
 4. Count Vowels in a String<br>
 Write a function that returns the number of vowels in a string.<br>
-Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/IQ4.py)
+Ans: [Answer](https://github.com/m-malavika/Random/blob/main/python/Q10.py)
 
 5. Remove Duplicates from a List<br>
 Write a program to remove duplicates from a list.<br>
