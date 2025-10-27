@@ -198,9 +198,197 @@ Calculate income tax for the given income by adhering to the rules below
 | Next $10,000        | 10%          |
 | The remaining       | 20%          |
 
-**Expected Output:**
+Expected Output:
 For example, suppose the income is 45000, and the income tax payable is<br>
 10000 * 0% + 10000 * 10%  + 25000 * 20% = $6000<br>
 Ans: [Answer]
 
+31. Print multiplication table from 1 to 10<br>
+The multiplication table from 1 to 10 is a table that shows the products of numbers from 1 to 10.<br>
+Write a code to generates a complete multiplication table for numbers 1 through 10.<br>
+Expected Output:<br>
+1  2 3 4 5 6 7 8 9 10 		<br>
+2  4 6 8 10 12 14 16 18 20 		<br>
+3  6 9 12 15 18 21 24 27 30 		<br>
+4  8 12 16 20 24 28 32 36 40 		<br>
+5  10 15 20 25 30 35 40 45 50 		<br>
+6  12 18 24 30 36 42 48 54 60 		<br>
+7  14 21 28 35 42 49 56 63 70 		<br>
+8  16 24 32 40 48 56 64 72 80 		<br>
+9  18 27 36 45 54 63 72 81 90 		<br>
+10 20 30 40 50 60 70 80 90 100<br>
+Ans: [Answer]
 
+32.  Print a downward half-pyramid pattern of stars<br>
+* * * * *  <br>
+* * * *  <br>
+* * *  <br>
+* *  <br>
+* <br>
+Ans: [Answer]
+
+33. Get an int value of base raises to the power of exponent<br>
+Write a function called exponent(base, exp) that returns an int value of base raises to the power of exp.<br>
+Note here exp is a non-negative integer, and the base is an integer.<br>
+Expected output<br>
+Case 1:<br>
+base = 2<br>
+exponent = 5<br>
+2 raises to the power of 5: 32 i.e. (2 *2 * 2 *2 *2 = 32)<br>
+Case 2:<br>
+base = 5<br>
+exponent = 4<br>
+5 raises to the power of 4 is: 625 <br>
+i.e. (5 *5 * 5 *5 = 625)<br>
+Ans: [Answer]
+
+34. Generate Fibonacci series up to 15 terms<br>
+For example, 0, 1, 1, 2, 3, 5, 8, 13, 21. The next number in this series is 13 + 21 = 34.<br>
+Expected output:<br>
+Fibonacci sequence:<br>
+0  1  1  2  3  5  8  13  21  34  55  89  144  233  377<br>
+Ans: [Answer]
+
+35. Check if a given year is a leap year<br>
+A leap year is a year in the Gregorian calendar that contains an extra day, making it 366 days long instead of the usual 365. This extra day, February 29th, is added to keep the calendar synchronized with the Earth’s revolution around the Sun.<br>
+Rules for leap years: a year is a leap year if it’s divisible by 4, unless it’s also divisible by 100 but not by 400.<br>
+Write a code find if a given year is a leap year.<br>
+Given:<br>
+year1 = 2020 <br>
+Output True<br>
+year2 = 2025<br>
+Output False<br>
+Ans: [Answer]
+
+36. Print Alternate Prime Numbers till 20<br>
+A Prime Number is a number that can only be divided by itself and 1 without remainders (e.g., 2, 3, 5, 7, 11).<br>
+For example:<br>
+All prime numbers from 1 to 20: 2, 3, 5, 7, 11, 13, 17, 19<br>
+Alternate prime numbers from 1 to 20:<br>
+2, 5, 11, 17<br>
+Ans: [Answer]
+
+37. Print Reverse Number Pattern<br>
+Expected Output:<br>
+1 1 1 1 1 <br>
+2 2 2 2 <br>
+3 3 3 <br>
+4 4 <br>
+5 <br>
+Ans: [Answer]
+
+38. Check if a user-entered string contains any digits using a for loop<br>
+Expected Output:<br>
+Enter a string: Pynative123Python<br>
+The string contains at least one digit.<br>
+Enter a string: PYnative<br>
+The string does not contain any digits.<br>
+Ans: [Answer]
+
+39. Capitalize the first letter of each word in a string<br>
+Expected Output:<br>
+str1 = "pynative.com is for python lovers"<br>
+Output Pynative.com Is For Python Lovers<br>
+Ans: [Answer]
+
+40. Create a simple countdown timer using a while loop.<br>
+Write a code to create a simple countdown timer of 5 seconds using a while loop.<br>
+Once the timer finishes (when the remaining time reaches zero), print a “Time’s up!” message.<br>
+Expected Output:<br>
+Time remaining: 5 seconds<br>
+Time remaining: 4 seconds<br>
+Time remaining: 3 seconds<br>
+Time remaining: 2 seconds<br>
+Time remaining: 1 seconds<br>
+Time's up!<br>
+Ans: [Answer]
+
+41. Display Float Number with 2 Decimal Places<br>
+Given:<br>
+num = 458.541315<br>
+Expected Output:<br>
+458.54<br>
+Ans: [Answer]
+
+42. Write all content of a file into a new file by skipping line number 5<br>
+Create a test.txt file and add the below content to it.<br>
+Given test.txt file:<br>
+line1<br>
+line2<br>
+line3<br>
+line4<br>
+line5<br>
+line6<br>
+line7<br>
+Expected Output: new_file.txt<br>
+line1<br>
+line2<br>
+line3<br>
+line4<br>
+line6<br>
+line7<br>
+Ans: [Answer]
+
+43. Accept any three string from one input() call<br>
+Write a program to take three names as input from the user in a single call to the input() function.<br>
+Expected Output<br>
+Enter three string Emma Jessa Kelly<br>
+Name1: Emma<br>
+Name2: Jessa<br>
+Name3: Kelly<br>
+Ans: [Answer]
+
+44. Format variables using string.format() method<br>
+Write a program to use the string.format() method to format the following three variables according to the expected output.<br>
+Given:<br>
+totalMoney = 1000<br>
+quantity = 3<br>
+price = 450<br>
+Expected Output:<br>
+I have 1000 dollars so I can buy 3 football for 450.00 dollars.<br>
+Ans: [Answer]
+
+45. Check File is Empty or Not<br>
+Write a program to check if the given file is empty or not<br>
+Ans: [Answer]
+
+46. Read Line Number 4 from File<br>
+Create a test.txt file and add the below content to it.<br>
+test.txt file:<br>
+line1<br>
+line2<br>
+line3<br>
+line4<br>
+line5<br>
+line6<br>
+line7<br>
+Ans: [Answer]
+
+47. Percentage Display<br>
+Ask the user for a numerator and a denominator. Calculate the percentage and display it with two decimal places followed by a percent sign (e.g., 75.50%).<br>
+Ans: [Answer]
+
+48. Interactive Menu<br>
+Create a simple interactive menu with options like “1. Say Hello”, “2. Calculate Square”, “3. Exit”. Based on the user’s input, perform the corresponding action<br>
+Ans: [Answer]
+
+49. Display Right-Aligned Output<br>
+Ask the user for a word and a number. Print the word right-aligned in a field of width 20, followed by the number.<br>
+Ans: [Answer]
+
+50. Tabular Output from Lists<br>
+You have two lists: names = ["Alice", "Bob", "Charlie"] and scores = [85, 92, 78]. Print these lists as a simple table with columns “Name” and “Score”.<br>
+Expected Output:<br>
+
+| **Name** | **Score**|
+|----------|----------|
+|Alice     | 85       |
+|Bob       | 92       |
+|Charlie   | 78       |
+
+Ans: [Answer]
+
+51. Padding with Zeros<br>
+Ask the user for a number. Print this number padded with leading zeros to a width of 5.<br>
+For example, if the input is 12, the output should be “00012“<br>
+Ans: [Answer]
