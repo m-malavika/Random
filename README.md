@@ -193,6 +193,7 @@ Ans: [Answer]
 <div style="margin-left: 30px">
 
 Calculate income tax for the given income by adhering to the rules below  
+<div align="center">
 
 | **Taxable Income** | **Rate (%)** |
 |---------------------|--------------|
@@ -200,9 +201,8 @@ Calculate income tax for the given income by adhering to the rules below
 | Next $10,000        | 10%          |
 | The remaining       | 20%          |
 
-**Expected Output:** Suppose the income is **$45,000**, and the income tax payable is **$6,000**  
-
-**Ans:** [Answer]
 </div>
+
+Ans: [Answer]
 
 
