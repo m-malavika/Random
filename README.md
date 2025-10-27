@@ -189,16 +189,18 @@ number = 7536<br>
 Output 6 3 5 7<br>
 Ans: [Answer]
 
-30. Calculate income tax<br>
-Calculate income tax for the given income by adhering to the rules below
+30. Calculate income tax  
+> Calculate income tax for the given income by adhering to the rules below  
+>
+> | **Taxable Income** | **Rate (%)** |
+> |---------------------|--------------|
+> | First $10,000       | 0%           |
+> | Next $10,000        | 10%          |
+> | The remaining       | 20%          |
+>
+> **Expected Output:**  
+> Suppose the income is **$45,000**, and the income tax payable is  
+> 10,000×0% + 10,000×10% + 25,000×20% = **$6,000**  
+>
+> **Ans:** [Answer]
 
-| **Taxable Income** | **Rate (%)** |
-|---------------------|--------------|
-| First $10,000       | 0%           |
-| Next $10,000        | 10%          |
-| The remaining       | 20%          |
-
-**Expected Output:**
-For example, suppose the income is 45000, and the income tax payable is<br>
-10000*0% + 10000*10%  + 25000*20% = $6000<br>
-Ans: [Answer]
